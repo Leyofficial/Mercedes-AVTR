@@ -459,7 +459,7 @@ margin-top: 35px;
         margin-left: 20px;
     }
     .header__content {
-        min-height: calc(60vh - 100px);
+        min-height: calc(60vh - 140px);
     }
     .interier-container {
         width: 80%;
