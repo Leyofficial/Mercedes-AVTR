@@ -460,6 +460,7 @@ margin-top: 35px;
     }
     .header__content {
         min-height: calc(60vh - 140px);
+        
     }
     .interier-container {
         width: 80%;
