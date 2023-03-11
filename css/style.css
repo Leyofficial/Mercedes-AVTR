@@ -57,10 +57,10 @@ background-color: #070A1B;
 }
 @keyframes headerTop {
     from {
-        transform: translateX(-100%);
+        opacity: 0;
     }
     to {
-        transform: translateX(0%);
+        opacity: 1;
     }
 }
 .header__top {
@@ -460,7 +460,7 @@ margin-top: 35px;
     }
     .header__content {
         min-height: calc(60vh - 140px);
-        
+
     }
     .interier-container {
         width: 80%;
