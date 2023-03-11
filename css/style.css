@@ -70,6 +70,7 @@ background-color: #070A1B;
     height: 100px;
     animation: 1s linear headerTop;
     transition: .5s linear all;
+
 }
 
 .list {
@@ -109,6 +110,8 @@ background-color: #070A1B;
     align-items: center;
     justify-content: flex-end;
     position: relative;
+    animation: 1s linear headerTop;
+    transition: 1s linear all;
 }
 
 .header__content::before {
